@@ -1,7 +1,8 @@
-
 ![Logo da Decola Tech](/assets/decolatech.png)
 
 # Bootcamp Decola Tech 3º edição
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 Seja bem vindo ao meu primerio repositório no GitHub, aqui estão uma série de projetos que estou desenvolvendo durante o bootcamp DecolaTech da Digital Inovation One. O objetivo deste é ter um primeiro contato com as tecnologias de desenvolvimento web, além de ser uma grande oportunidade para um estágio na Avanade. Cada projeto está organizado em módulos e cada um deles implementa um conjunto de tecnologias diferentes. Espero que goste 
 
