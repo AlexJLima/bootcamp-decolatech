@@ -7,11 +7,16 @@ botaoSubtrair.addEventListener("click", decrement);
 botaoAdicionar.addEventListener("click", increment);
 
 function increment() {
-   currentNumber += 1;
-   currentNumberWrapper.innerHTML = currentNumber;
+    if (currentNumberWrapper.innerHTML < 10) {
+        currentNumber += 1;
+        currentNumberWrapper.innerHTML = currentNumber;
+    }
+    
 }
 
 function decrement() {
-    currentNumber -= 1;
-    currentNumberWrapper.innerHTML = currentNumber;
+    if(currentNumberWrapper.innerHTML > 0) {
+        currentNumber -= 1;
+        currentNumberWrapper.innerHTML = currentNumber;
+    } 
 }
