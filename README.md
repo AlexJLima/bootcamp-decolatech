@@ -14,6 +14,6 @@ Seja bem vindo ao meu primerio repositório no GitHub, aqui estão uma série de
 
     Aqui tive meus primeiros passos com HTML, CSS e um gostinho de PHP. Desenvolvi dois projetos, um é o contador feito em php e outro é uma página de portifólio.
 
-* Módulo II
+* Módulo III
 
     O módulo III é focado em Javascript, é neste módulo que estou agora. Além do Javascript, estou aprendendo sobre VSCode, Node.js, DOM e noções de estrutura de projetos
