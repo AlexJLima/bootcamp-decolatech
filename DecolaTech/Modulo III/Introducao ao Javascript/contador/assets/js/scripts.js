@@ -10,8 +10,7 @@ function increment() {
     if (currentNumberWrapper.innerHTML < 10) {
         currentNumber += 1;
         currentNumberWrapper.innerHTML = currentNumber;
-    }
-    
+    }    
 }
 
 function decrement() {
