@@ -16,4 +16,8 @@ Seja bem vindo ao meu primerio repositório no GitHub, aqui estão uma série de
 
 * Módulo III
 
-    O módulo III é focado em Javascript, é neste módulo que estou agora. Além do Javascript, estou aprendendo sobre VSCode, Node.js, DOM e noções de estrutura de projetos
+    O módulo III é sobre Javascript. Nele aprendi tudo que é essencial para começar a desenvolver: funções e seus tipos (array function, anônima e callback), variáveis de escopo global e local, operadores lógicos e aritméticos, estrutura de repetição e seleção, tratamento de erros, funções para manipular o DOM e tantas outras funcionalidades. Acredito que foi o módulo que mais gostei, aprendi muita coisa
+
+* Módulo IV
+
+    É onde estou agora, o objetivo é entender o React-Native e fazer aplicativos para a plataforma Android (que já tem um release disponível!!)
